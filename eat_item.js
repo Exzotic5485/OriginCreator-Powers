@@ -20,12 +20,6 @@ module.exports = {
             question: "How much saturation should it give?",
             placeholder: "{saturation}",
             example: "0.7"
-        },
-        {
-            title: "Cooldown",
-            question: "Cooldown between eating?(Ticks)",
-            placeholder: "{cooldown}",
-            example: "20"
         }
     ],
     json: `{
