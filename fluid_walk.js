@@ -1,7 +1,7 @@
 module.exports = {
 	name: "Fluid Walking",
 	category: "Movement",
-	description: "Allows you to walk on Fluids",
+	description: "Allows you to walk on Fluids such as water/lava",
 	options: [{
 		title: "Fluid Type",
 		question: "What Fluid type should be walkable?",

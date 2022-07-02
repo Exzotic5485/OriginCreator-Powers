@@ -1,7 +1,7 @@
 module.exports = {
     name: "Radiant Blast",
     category: "Combat",
-    description: "You will summon matter from an unknown realm and when you hit it, it will be launched in the direction you hit it. [{key}]",
+    description: "You will summon matter from an unknown realm and when you hit it, it will be launched in the direction you hit it.",
     options: [
         {
             title: "Particle",
